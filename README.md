@@ -1,8 +1,10 @@
-<h3 align="left">Welcome to the README of just another dev,<br><br>who brewed this up in her mind at 3 AM,<br><br>while simultaneously trying to center a <div> (and her life, too!)<br><br>Hi, I'm Pragati, a passionate full-stack developer, currently a third-year student at IIIT Pune, pursuing a B.Tech in Computer Science and Engineering.</h3>
+<h3>Welcome to the README of just another dev, who brewed this up in her mind at 3 AM, while simultaneously trying to center a &lt;div&gt; (and her life, too!)
+  
+<h3>Hi, I'm Pragati, a passionate full-stack developer, currently a third-year student at IIIT Pune, pursuing a B.Tech in Computer Science and Engineering.</h3>
 
 ###
 
-## 📊 My Stats:
+<h3>My Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patcodes-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=patcodes-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -11,18 +13,21 @@
 
 ###
 
-## 🧩 Some of my key projects:
-- ✏️ [ReWise](https://github.com/patcodes-01/Rewise)
-- 🧩 [PuzzleVerse](https://github.com/patcodes-01/PuzzleVerse-Java-Mini-Project)
-- 🕹 [VenomWorld](https://github.com/patcodes-01/VenomWorld)
+<h3>Some of my key projects:</h3>
 
-## 🚀 And a sneak peek into my ongoing projects:
-- 🛡 I'm currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI)
-- 🖌 and [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
+- [ReWise](https://github.com/patcodes-01/Rewise)
+- [PuzzleVerse](https://github.com/patcodes-01/PuzzleVerse-Java-Mini-Project)
+- [VenomWorld](https://github.com/patcodes-01/VenomWorld)
+
+
+<h3>And a sneak peek into my ongoing projects:</h3>
+
+- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI)
+- And [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
 
 ###
 
-## 💻 Languages and Tools I have worked with:
+<h3>Languages and Tools I have worked with:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
@@ -63,7 +68,7 @@
 
 ###
 
-## 🌐 You can connect with me on my other socials:
+<h3>You can connect with me on my other socials:</h3>
 <p align="left">
   <a href="https://www.instagram.com/pragati_thawkar?igsh=MWxwZzJyNHJpNmJ1OA==" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="30" alt="Instagram"/>
