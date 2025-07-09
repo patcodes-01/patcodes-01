@@ -3,10 +3,13 @@
 <h3>Hi, I'm Pragati, a passionate full-stack developer, currently a third-year student at IIIT Pune, pursuing a B.Tech in Computer Science and Engineering.</h3>
 <h3></h3>
 
-<h3>An overview of what I have built till now:</h3>
+<h3>Some stats:</h3>
+
+<h3>Some of my Key Projects:</h3>
 
 - [ReWise](https://github.com/patcodes-01/Rewise)
 - [PuzzleVerse](https://github.com/patcodes-01/PuzzleVerse-Java-Mini-Project)
+- [VenomWorld](https://github.com/patcodes-01/VenomWorld)
 
 <h3>And a sneak peek into my ongoing projects:</h3>
 
@@ -25,7 +28,6 @@
 <p align="left">
 <a href="https://twitter.com/pragati_thawkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragati_thawkar" height="30" width="40" /></a>
 <a href="https://instagram.com/pragati_thawkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pragati_thawkar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patcodes_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patcodes_01" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patcodes-01&show_icons=true&locale=en&layout=compact" alt="patcodes-01" /></p>
