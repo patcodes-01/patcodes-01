@@ -1,4 +1,7 @@
-## Hi there 👋
+## ☕ Welcome to the README of just another dev,  
+who brewed this up in her mind at 3 AM,  
+while simultaneously trying to center a `<div>` (and her life, too).
+
 
 <!--
 **patcodes-01/patcodes-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
