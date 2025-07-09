@@ -12,21 +12,7 @@
 
 ###
 
-<h3>💻Some of my key projects:</h3>
-
-- [ReWise](https://github.com/patcodes-01/Rewise)
-- [PuzzleVerse](https://github.com/patcodes-01/PuzzleVerse-Java-Mini-Project)
-- [VenomWorld](https://github.com/patcodes-01/VenomWorld)
-
-
-<h3>And a sneak peek into my ongoing projects:</h3>
-
-- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI)
-- And [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
-
-###
-
-<h3>Languages and Tools I have worked with:</h3>
+<h3>🛠️Languages and Tools I have worked with:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
@@ -58,6 +44,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
 </p>
+
+<h3>💻Some of my key projects:</h3>
+
+- [ReWise](https://github.com/patcodes-01/Rewise) - A platform that converts previous year question papers into interactive quizzes and flashcards for efficient last-minute revision.
+- [PuzzleVerse](https://github.com/patcodes-01/PuzzleVerse-Java-Mini-Project) - A two-level puzzle game combining a basic Jigsaw Puzzle and the classic 8-Puzzle, developed using Java Swing.
+- [VenomWorld](https://github.com/patcodes-01/VenomWorld) - Step into the Reptile Universe by playing the Snake Game!
+
+
+<h3>And a sneak peek into my ongoing projects:</h3>
+
+- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI)
+- And [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
+
+###
 
 ###
 
