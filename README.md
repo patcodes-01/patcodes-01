@@ -1,6 +1,6 @@
-## Welcome to the README of just another dev,  
-## who brewed this up in her mind at 3 AM,  
-## while simultaneously trying to center a `<div>` (and her life, too).
+** Welcome to the README of just another dev,  **
+** who brewed this up in her mind at 3 AM,  **
+** while simultaneously trying to center a `<div>` (and her life, too).**
 
 
 <!--
