@@ -1,6 +1,4 @@
-<h3>Welcome to the README of just another dev,</h3>
-<h3>who brewed this up in her mind at 3 AM,</h3>
-<h3>while simultaneously trying to center a &lt;div&gt; (and her life, too!)</h3>
+<h3>Welcome to the README of just another dev, who brewed this up in her mind at 3 AM, while simultaneously trying to center a &lt;div&gt; (and her life, too!)</h3>
 
 <h3>Hi, I'm Pragati, a passionate full-stack developer, currently a third-year student at IIIT Pune, pursuing a B.Tech in Computer Science and Engineering.</h3>
 <h3></h3>
