@@ -24,7 +24,7 @@
 
 <h3>And a sneak peek into my ongoing projects:</h3>
 
-- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI)
+- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI) and [SwapSkills]()
 - And [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
 
 ###
