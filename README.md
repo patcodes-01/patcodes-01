@@ -24,7 +24,7 @@
 
 <h3>And a sneak peek into my ongoing projects:</h3>
 
-- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI), [SkillSwap](https://github.com/patcodes-01/SwapSkill) and [Tryva](https://github.com/patcodes-01/SwapSkill)
+- I am currently working on [SafeRouteAI](https://github.com/patcodes-01/SafeRouteAI), [SkillSwap](https://github.com/patcodes-01/SwapSkill) and [Tryva](https://github.com/patcodes-01/Tryva)
 - And [my Portfolio website too!](https://github.com/patcodes-01/Portfolio)
 
 ###
